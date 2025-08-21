@@ -113,7 +113,7 @@ RL_Project/
 │   ├── gifs/                        # Visualizations of runs
 │   └── SimpleSpreadV3_MARL.ipynb
 │
-└── avirigin_nkaandru_prajeshg_final_project.pdf  # Final project report
+└── REPORT.pdf  # Final project report
 ```
 
 ---
@@ -128,6 +128,3 @@ This project was a collaborative effort for **CSE 4/546: Reinforcement Learning*
 All members contributed equally to environment design, algorithm implementation, experimentation, and report writing.  
 
 ---
-
-## 📄 License
-This project is licensed under the **MIT License**.
