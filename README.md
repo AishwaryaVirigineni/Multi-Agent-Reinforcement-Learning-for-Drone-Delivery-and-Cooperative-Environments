@@ -59,6 +59,13 @@ A wide range of MARL algorithms were implemented and benchmarked across the two 
 
 ---
 
+## 🎥 Sample Runs  
+| DQN | Double DQN | Dueling DQN |
+|-----|------------|-------------|
+| ![DQN]([gifs](https://github.com/AishwaryaVirigineni/Multi-Agent-Reinforcement-Learning-for-Drone-Delivery-and-Cooperative-Environments/tree/main/Existing_MARL-SimpleSpreadv3/gifs/dqn_run.gif) | ![DoubleDQN]([gifs](https://github.com/AishwaryaVirigineni/Multi-Agent-Reinforcement-Learning-for-Drone-Delivery-and-Cooperative-Environments/tree/main/Existing_MARL-SimpleSpreadv3/gifs/)/double_dqn_run.gif) | ![DuelingDQN]([gifs](https://github.com/AishwaryaVirigineni/Multi-Agent-Reinforcement-Learning-for-Drone-Delivery-and-Cooperative-Environments/tree/main/Existing_MARL-SimpleSpreadv3/gifs/dueling_dqn_run.gif) |
+
+---
+
 ## 🔧 Setup & Usage
 
 The project is organized into two main folders, one for each environment.
