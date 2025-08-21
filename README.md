@@ -1,0 +1,2 @@
+# Multi-Agent-Reinforcement-Learning-for-Drone-Delivery-and-Cooperative-Environments
+This project explores Multi-Agent Reinforcement Learning (MARL) in two environments: a custom Drone Delivery system with no-fly zones and package coordination, and Simple Spread v3 (PettingZoo). We implement tabular (Q-Learning, SARSA, Double Q) and deep RL (DQN, Double DQN, Dueling DQN, QMIX) methods, comparing performance and strategies.
