@@ -7,7 +7,7 @@ We developed a custom **drone delivery simulator** and benchmarked algorithm per
 ![Libraries: PettingZoo, PyTorch, NumPy](https://img.shields.io/badge/libs-PettingZoo%20%7C%20PyTorch-orange.svg)
 
 *A visualization of the custom drone delivery environment, showing two drones, packages, and no-fly zones.*  
-![Drone Delivery Environment](https://i.imgur.com/your-drone-env-screenshot.png)
+![Drone Delivery Environment](https://github.com/AishwaryaVirigineni/Multi-Agent-Reinforcement-Learning-for-Drone-Delivery-and-Cooperative-Environments/blob/main/Custom_MARL-DroneDelivery/images/ENV.png)
 
 ---
 
